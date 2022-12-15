@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+pps.wealthcreatorsmethod.com	TRUE	/app/	FALSE	1999999999	CAKEPHP	326c325fe2b83e3ab711b6da567e3a45
+
